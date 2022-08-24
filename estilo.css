@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(209, 192, 34);
+}
+th{
+background-color: antiquewhite;
+}
+th{
+padding-top: 8px;
+padding-bottom: 8px;
+padding-right: 4px;
+padding-left: 4px;
+}
+tr:hover{
+    background-color: aquamarine;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+
+.preco{
+    text-align: right;
+}
+
+.luxo{
+    color: blueviolet;
+}
